@@ -1,0 +1,4 @@
+chgnet>=0.3.4
+ase>=3.22.1
+numpy>=1.23
+matplotlib>=3.7
