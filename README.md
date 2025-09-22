@@ -6,3 +6,6 @@ Two minimal seeds for AI/DFT materials workflows:
 - `hull_tools/`: Lightweight pymatgen convex-hull tools from a CSV of compositions and energies; computes formation energies and distance-to-hull, optional plot.
 
 See each subfolder for setup and usage.
+
+## Authorship & tools
+Developed by me. AI code-completion was used for boilerplate.
